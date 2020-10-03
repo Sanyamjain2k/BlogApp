@@ -3,15 +3,16 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/swaraj961/BlogApp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-# Blog_app 
+# Blog_app 😎
 
 * Add a new blog with image , date, time and description 
 * Material design App with Liquid refresh and Navbar animations
 * Database integration with Firebase Realtime DB
+* Flutter UI
 
 
 # App UI -
-Auth Screen and working
+`Auth Screen and working`
 
 <img src="https://github.com/swaraj961/BlogApp/blob/master/demo/Intro%20and%20auth.gif" width="
 30%">&nbsp;&nbsp;&nbsp; 
